@@ -41,7 +41,7 @@ namespace yesi
             Console.WriteLine("Keskiarvo on {0}", wab);
 
 
-        }
+        } 
 
     }
 }
